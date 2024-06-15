@@ -30,6 +30,8 @@
 ## 05_produce_wordcloud.ipynb
 
 **설명:** 이 노트북은 텍스트 데이터를 기반으로 워드클라우드를 생성하는 과정을 다룹니다. 데이터 시각화를 통해 텍스트의 주요 키워드를 쉽게 파악할 수 있습니다.
+![9771032](https://github.com/YOONSUNGKA/myfirstproject_YOONSUNGKA/assets/105855568/7c90ecd1-e70c-4522-a000-4d512dc79ea0)
+
 
 주피터 노트북 파일들을 기반으로 한 이 프로젝트에서 사용된 주요 기술 스택은 다음과 같습니다:
 
